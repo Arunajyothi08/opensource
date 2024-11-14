@@ -1,5 +1,5 @@
-money, bill = map(int,input().split())
-if money >= bill:
+x, y = map(int,input().split())
+if x >= y:
     print("YES")
 else:
     print("NO")
